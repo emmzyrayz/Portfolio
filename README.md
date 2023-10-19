@@ -22,7 +22,7 @@ I'm a dedicated frontend web developer with a passion for crafting captivating a
 
 - [Panflix 🎥](#) - A movie streaming website.
 - [Okay-Mart 🛒](https://okaymart-8c627.web.app/) - An e-commerce platform.
-- [Portfolio v1📝](https://okayinterrupt.web.app/) - My web development portfolio.
+- [Portfolio 📝](https://okayinterrupt.web.app/) - My web development portfolio.
 - [Pandahub 📝](https://pandahubtest.web.app/) - A blogging platform.
 
 💬 **Let's Connect**
@@ -31,13 +31,12 @@ I'm always excited to discuss web development and coding. Don't hesitate to reac
 
 🌐 **Visit my website**
 
-Take a tour of my website to explore my resume and follow my coding journey: [Nnamdi Dike's Portfolio v1](https://okayinterrupt.web.app/)
-
+Take a tour of my website to explore my resume and follow my coding journey: [Nnamdi Dike's Portfolio](https://okayinterrupt.web.app/)
 
 ---
 
 <p align="center">Happy coding! 🚀</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
 </p>

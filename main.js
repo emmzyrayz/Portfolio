@@ -11941,7 +11941,7 @@ const fn = ({ children: e }) => {
         )
       ),
     }),
-  Z1 = "/assets/images/Nnamdi-Dike.jpg",
+  Z1 = "/assets/Nnamdi-Dike.jpg",
   ev = () =>
     k.jsx("img", {
       src: Z1,
